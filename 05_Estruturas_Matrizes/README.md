@@ -4,7 +4,7 @@
 | ---------------------- | 
 |Fazer um programa para ler um número inteiro N (máximo = 10) e uma matriz quadrada de ordem N contendo números inteiros. Em seguida, mostrar a diagonal principal e a quantidade de valores negativos da matriz.<br>|
 
-<img  src="https://github.com/HenriqueJRodrigues/Exercicios-Logica-de-Programacao/blob/main/05_Estruturas_Matrizes/01_Exercicio_Diagonal_Negativos.ALG"/><br>
+<img  src="https://github.com/HenriqueJRodrigues/Exercicios-Logica-de-Programacao/blob/main/Assets/05_Estruturas_Matrizes/01_Exercicio_Diagonal_Negativos.gif"/><br>
 
 
 |<a href="https://github.com/HenriqueJRodrigues/Exercicios-Logica-de-Programacao/blob/main/05_Estruturas_Matrizes/02_Exercicio_Soma_Linhas.ALG">02_Exercicio_Soma_Linhas</a>|
