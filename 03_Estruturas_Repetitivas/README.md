@@ -4,7 +4,7 @@
 | ---------------------- | 
 |Leia uma quantidade indeterminada de duplas de valores inteiros X e Y. Escreva para cada X e Y uma mensagem que indique se estes valores foram digitados em ordem crescente ou decrescente. O programa deve finalizar quando forem digitados dois valores iguais. <br>|
 
-<img  src="https://github.com/HenriqueJRodrigues/Exercicios-Logica-de-Programacao/blob/main/03_Estruturas_Repetitivas/01_Exercicio_Crescente.ALG"/><br>
+<img  src="https://github.com/HenriqueJRodrigues/Exercicios-Logica-de-Programacao/blob/main/Assets/03_Estruturas_Repetitivas/01_Exercicio_Crescente.gif"/><br>
 
 |  <a href="https://github.com/HenriqueJRodrigues/Exercicios-Logica-de-Programacao/blob/main/03_Estruturas_Repetitivas/02_Exercicio_Media_Idades.ALG">02_Exercicio_Media_Idades</a> |
 | ---------------------- | 
